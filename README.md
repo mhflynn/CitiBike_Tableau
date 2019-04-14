@@ -1,6 +1,6 @@
 # CitiBike_Tableau 
 
-#### This project implements a Tableau dashboard for the CitiBike program in New York City, based on date for the year 2018. There are 12 data sets, csv files, 1 for each month of 2018, that contain information for every bike trip. There is a dash board for to view ridership characteristics, station utilization and program usage information. 
+#### This project implements a Tableau dashboard for the CitiBike program in New York City, based on data for the year 2018. There are 12 data sets, csv files, 1 for each month of 2018, that contain information for every bike trip. There is a dashboard for to view ridership characteristics, station utilization and program usage information. 
 
 #### A MS Powerpoint presentation is also available in the repository for quick view of material without opening the Tableau workbook
 
