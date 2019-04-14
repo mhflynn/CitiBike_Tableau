@@ -2,6 +2,8 @@
 
 #### This project implements a Tableau dashboard for the CitiBike program in New York City, based on date for the year 2018. There are 12 data sets, csv files, 1 for each month of 2018, that contain information for every bike trip. There is a dash board for to view ridership characteristics, station utilization and program usage information. 
 
+#### A MS Powerpoint presentation is also available in the repository for quick view of material without opening the Tableau workbook
+
 ## Setup
  To view the Tableau workbook, first copy or clone the CitiBike_Tableau repository. Prior to opening the workbook, the data files in folder data/zip need to be uncompressed/unzipped into the data folder. For Mac users, make "data" folder the working directory, then run the "unzip_raw_data.sh" shell file with command "source unzip_raw_data.sh". For PC users, please manually unzip each zip file in the "data/zip" folder and place in the "data" folder. 
 
